@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#name ,#name-2  
+{
+  color: black;
+}
+.Emotion-1
+{
+  font-size: 40px;
+}
+.Emoji-1
+{
+  font-size:48px;
+}
+
+.heading{
+  letter-spacing: 10px;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+label{
+  font-size: medium;
+  font-family: cursive;
+  padding: 10px;
+}
